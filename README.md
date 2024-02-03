@@ -21,6 +21,7 @@ where I honed my skills in ensuring seamless software delivery. 🔧
 I am enthusiastic about leveraging my knowledge and experience to contribute to cutting-edge advancements in the field of AI and machine learning. 🚀
 Looking forward to connecting with fellow professionals and enthusiasts in this exciting domain! 🤝
 
+- 🌐 My blog: https://louislu9911.github.io
 - 📫 How to reach me: louislu9911@gmail.com
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: Rap in Cantonese
